@@ -1,1 +1,9 @@
 C:\dev\Sistema-Poupatempo\src\main\java\database\ConnectionFactory.java
+C:\dev\Sistema-Poupatempo\src\main\java\database\GuicheDao.java
+C:\dev\Sistema-Poupatempo\src\main\java\database\SenhaDao.java
+C:\dev\Sistema-Poupatempo\src\main\java\database\ServicoDao.java
+C:\dev\Sistema-Poupatempo\src\main\java\dto\PainelDTO.java
+C:\dev\Sistema-Poupatempo\src\main\java\dto\SenhaDTO.java
+C:\dev\Sistema-Poupatempo\src\main\java\model\Guiche.java
+C:\dev\Sistema-Poupatempo\src\main\java\model\Senha.java
+C:\dev\Sistema-Poupatempo\src\main\java\model\Servico.java

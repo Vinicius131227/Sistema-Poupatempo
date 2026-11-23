@@ -1,1 +1,9 @@
+database\GuicheDao.class
+model\Senha.class
+dto\SenhaDTO.class
+model\Servico.class
 database\ConnectionFactory.class
+database\SenhaDao.class
+database\ServicoDao.class
+model\Guiche.class
+dto\PainelDTO.class
